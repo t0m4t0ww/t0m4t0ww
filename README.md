@@ -59,8 +59,8 @@
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=t0m4t0vw&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=t0m4t0vw&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=t0m4t0ww&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=t0m4t0ww&layout=compact&theme=tokyonight)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=t0m4t0vw&style=for-the-badge" alt="profile views"/>
